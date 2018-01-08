@@ -1,18 +1,36 @@
 
-LuaAutocomplete
+Cocos2d-x LuaAutocomplete
+
 ===============
 
-This is a very basic auto-completion plugin for Sublime Text 3 and the Lua language.
-It's meant to be an improvement over Sublime Text's default autocomplete, which is frequently
-cluttered with noise from comments, etc.
+Edit from [LuaAutocmplete](https://github.com/ColonelThirtyTwo/LuaAutocomplete)
+support LuaExtended plugin
+
+------
 
 Types of autocompletion added:
+* add cocos api(modules, class, class-method)
+    * input `module` anywhere, will show cocos modules in completions
+    * input specific module name anywhere, will show cocos classes of that module in completions
+    * class-funcs
+        * input specific class name follow ":", will show function that should use ":" to call in completions
+        * input specific class name follow ".", will show function that should use "." to call in completions
+* require path(folder & file in str content)
+* file path(in str content)
 
-* Local variables, including function parameters, for loop indices, etc.
-* File paths in `require`. This will search along all folders added to the project for Lua files and directories,
-and adds them as autocompletion entries when calling the `require` function.
+------
+
+Need configure the api version folder path, res folder and script folder in `Cocos2d_x_LuaAutocomplete.py`
+When first open subl or reload plugins, type words first time will stuck a while to load api files
+
+------
 
 Wishlist:
-
-* Builtins autocompletion.
-* Table member completion (really hard!).
+* use a config file to configure vars above
+* vars go with `.sublime-project`
+* find a way to export cocos-lua fully
+    * now api files find in cocos project is not the full ver, miss some field types like `ccui.ScrollviewEventType.bounceTop`
+    * field types are not added into the completions yet
+    * some custom class api files which exported by `tolua` are not supported yet
+* maybe use sqlite to store and get curtain completions to speed-up loading
+* log file not used yet, may record some crashes into it

@@ -1,0 +1,1293 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"return"
+			],
+			[
+				"ind",
+				"Index"
+			],
+			[
+				"resul",
+				"results"
+			],
+			[
+				"count",
+				"count_x"
+			],
+			[
+				"reg",
+				"regions"
+			],
+			[
+				"cur",
+				"cur_path"
+			],
+			[
+				"proj",
+				"proj_subdir"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"em",
+				"enumerate"
+			],
+			[
+				"fatherc",
+				"fatherClass_t"
+			],
+			[
+				"class",
+				"class_i"
+			],
+			[
+				"ap",
+				"append"
+			],
+			[
+				"fat",
+				"father_class"
+			],
+			[
+				"para",
+				"param_str"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"api_",
+				"api_module"
+			],
+			[
+				"find",
+				"find"
+			],
+			[
+				"api",
+				"api_module"
+			],
+			[
+				"fa",
+				"False"
+			],
+			[
+				"module",
+				"module3"
+			],
+			[
+				"func",
+				"func_field_index"
+			],
+			[
+				"ismo",
+				"isModule3"
+			],
+			[
+				"model",
+				"module3"
+			],
+			[
+				"mode",
+				"module2"
+			],
+			[
+				"split",
+				"splits"
+			],
+			[
+				"pos",
+				"pos-1"
+			],
+			[
+				"true",
+				"True"
+			],
+			[
+				"loc",
+				"LocalsAutocomplete"
+			],
+			[
+				"load",
+				"load_api"
+			],
+			[
+				"index",
+				"index_case"
+			],
+			[
+				"s",
+				"search"
+			],
+			[
+				"pli",
+				"plist_match"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"file",
+				"file_strs"
+			],
+			[
+				"fi",
+				"finally"
+			],
+			[
+				"apifs",
+				"api_file_strs"
+			],
+			[
+				"isd",
+				"is_dot_func"
+			],
+			[
+				"afmi",
+				"api_father_module_index"
+			],
+			[
+				"afmodi",
+				"api_father_module_index"
+			],
+			[
+				"afmd",
+				"api_father_module_i"
+			],
+			[
+				"apifmo",
+				"api_father_module_index"
+			],
+			[
+				"local",
+				"LocalsAutocomplete"
+			],
+			[
+				"afi",
+				"api_file_strs"
+			],
+			[
+				"fil",
+				"file_s"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"mod",
+				"module_path2"
+			],
+			[
+				"modp",
+				"module_path"
+			],
+			[
+				"for",
+				"forp\tfor k,v in pairs()"
+			],
+			[
+				"skl",
+				"on_skillEnd"
+			],
+			[
+				"sk",
+				"skill_base"
+			],
+			[
+				"self",
+				"setTitleLabelForState(label,state)"
+			],
+			[
+				"fun",
+				"function\tfunction"
+			],
+			[
+				"sprite",
+				"cc.Sprite:create()"
+			],
+			[
+				"textureres",
+				"ccui.TextureResType.plistType"
+			],
+			[
+				"setMaxl",
+				"setMaxLengthEnabled(enable)"
+			],
+			[
+				"setma",
+				"setMaxLength(length)"
+			],
+			[
+				"passwblock",
+				"password_twice_block"
+			],
+			[
+				"_register",
+				"_register_password_twice_edit"
+			],
+			[
+				"_register_",
+				"_register_password_edit"
+			],
+			[
+				"_regist",
+				"_register_account_edit"
+			],
+			[
+				"setAn",
+				"setAnchorPoint(point_table)"
+			],
+			[
+				"regpasw",
+				"_register_password_twice_edit"
+			],
+			[
+				"createwith",
+				"createWithSpriteFrameName(spriteFrameName)"
+			],
+			[
+				"crea",
+				"create(value)"
+			],
+			[
+				"scale",
+				"cc.Scale9Sprite"
+			],
+			[
+				"_block_we",
+				"_block_welcome_text"
+			],
+			[
+				"createw",
+				"createWithSpriteFrameName(spriteFrameName)"
+			],
+			[
+				"Scale9",
+				"cc.Scale9Sprite:create()"
+			],
+			[
+				"remove",
+				"removeFromParent()"
+			],
+			[
+				"spaw",
+				"cc.Spawn:create(table)"
+			],
+			[
+				"src_po",
+				"src_pos"
+			],
+			[
+				"src_pos",
+				"src_pos_in_layer_cover"
+			],
+			[
+				"spri",
+				"cc.Sprite:create(string)"
+			],
+			[
+				"No",
+				"cc.Node:create()"
+			],
+			[
+				"setscal",
+				"setScale(float,float)"
+			],
+			[
+				"Del",
+				"cc.DelayTime"
+			],
+			[
+				"c",
+				"create()"
+			],
+			[
+				"ScaleTo",
+				"cc.ScaleTo:create(float,float,float)"
+			],
+			[
+				"scaleto",
+				"cc.ScaleTo:create(float,float)"
+			],
+			[
+				"callf",
+				"cc.CallFunc:create()"
+			],
+			[
+				"delay",
+				"cc.DelayTime:create(d)"
+			],
+			[
+				"seq",
+				"cc.Sequence:create(table)"
+			],
+			[
+				"calfun",
+				"cc.CallFunc:create()"
+			],
+			[
+				"stopac",
+				"stopAllActions()"
+			],
+			[
+				"_hero",
+				"_hero_ani"
+			],
+			[
+				"scal",
+				"cc.ScaleTo"
+			],
+			[
+				"runshoot",
+				"run_shoot3"
+			],
+			[
+				"setPosit",
+				"setPosition(vec2_table)"
+			],
+			[
+				"texret",
+				"ccui.TextureResType.plistType"
+			],
+			[
+				"widg",
+				"ccui.Widget:create()"
+			],
+			[
+				"calf",
+				"cc.CallFunc:create()"
+			],
+			[
+				"del",
+				"cc.DelayTime"
+			],
+			[
+				"dst_hero",
+				"dst_heros"
+			],
+			[
+				"hur",
+				"hurt_explode"
+			],
+			[
+				"src",
+				"src_hero"
+			],
+			[
+				"addc",
+				"add_cover_layer_with_color"
+			],
+			[
+				"do_skill",
+				"do_skill5"
+			],
+			[
+				"do_small",
+				"do_small_shoot_effect_3"
+			],
+			[
+				"do_hide",
+				"do_hide_defence_heros"
+			],
+			[
+				"v",
+				"v"
+			],
+			[
+				"ev",
+				"event_manager"
+			],
+			[
+				"src_",
+				"src_pos"
+			],
+			[
+				"srch",
+				"src_hero_ani"
+			],
+			[
+				"ad",
+				"add_cover_layer_with_color"
+			],
+			[
+				"dst_heros_",
+				"dst_heros_temp"
+			],
+			[
+				"dst_pos",
+				"dst_pos_2"
+			],
+			[
+				"setpos",
+				"setPosition"
+			],
+			[
+				"C",
+				"CallFunc"
+			],
+			[
+				"se",
+				"setVisible"
+			],
+			[
+				"camera_pos",
+				"camera_pos_dst"
+			],
+			[
+				"set",
+				"setPosition"
+			],
+			[
+				"skil",
+				"skill_mode"
+			],
+			[
+				"ski",
+				"skill_mode"
+			],
+			[
+				"get",
+				"get_hero"
+			],
+			[
+				"do_hi",
+				"do_hide_defence_heros"
+			],
+			[
+				"spli",
+				"split"
+			],
+			[
+				"getawakm",
+				"get_equip_awaken_max"
+			],
+			[
+				"data",
+				"data_science"
+			],
+			[
+				"rw",
+				"rows"
+			],
+			[
+				"row",
+				"row_root"
+			],
+			[
+				"setc",
+				"setContentSize"
+			],
+			[
+				"sci",
+				"science"
+			],
+			[
+				"json",
+				"json_obj"
+			],
+			[
+				"las",
+				"last_request_time"
+			],
+			[
+				"use",
+				"spirit_user"
+			],
+			[
+				"awak",
+				"awaken_bg"
+			],
+			[
+				"awaken",
+				"awaken_level_str"
+			],
+			[
+				"awkan",
+				"awaken_bg"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Cocos2d_x_LuaAutocomplete.py",
+			"settings":
+			{
+				"buffer_size": 13272,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/E/Workspace/Sublime/gundam_trunk/trunk.sublime-project",
+			"settings":
+			{
+				"buffer_size": 99,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "api/3.2/Widget.lua",
+			"settings":
+			{
+				"buffer_size": 14566,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "api/3.2/Ref.lua",
+			"settings":
+			{
+				"buffer_size": 887,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "api/3.2/Action.lua",
+			"settings":
+			{
+				"buffer_size": 2861,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "locals.py",
+			"settings":
+			{
+				"buffer_size": 6685,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pcl",
+		"selected_items":
+		[
+			[
+				"pcl",
+				"Package Control: List Packages"
+			],
+			[
+				"pcr",
+				"Package Control: Remove Package"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"pcrp",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"\\",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: u",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"package control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"package control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"package control: in",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"package control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control:in",
+				"Package Control: Install Package"
+			],
+			[
+				"package control:li",
+				"Package Control: List Packages"
+			],
+			[
+				"package control:in p",
+				"Package Control: Install Package"
+			],
+			[
+				"package control:",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"package control: inst p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 261.0,
+		"history":
+		[
+			"exit",
+			"print(1)",
+			"4",
+			"3",
+			"2",
+			"1",
+			"print 1",
+			"reload",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Packages/Cocos2d_x_LuaAutocomplete"
+	],
+	"file_history":
+	[
+		"/E/Workspace/Cocos/gundam_tags/server_client_2_3_0_0_20160719_CN/client_code/build/make_assets/__assets_android/release/src/consts.lua",
+		"/E/Workspace/Cocos/gundam_tags/server_client_2_3_0_0_20160719_CN/client_code/build/make_assets/__assets_android/release/src/text/zh-Hans.lua",
+		"/E/Workspace/Cocos/gundam_tags/server_client_2_3_0_0_20160719_CN/client_code/build/make_assets/__assets_android/release/src/text/en.lua",
+		"/E/Workspace/Cocos/gundam_tags/server_client_2_3_0_0_20160719_CN/client_code/build/make_assets/__assets_android/release/src/text/textIndex.lua",
+		"/E/Workspace/Cocos/gundam_tags/server_client_2_3_0_0_20160719_CN/client_code/build/make_assets/__assets_android/release/src/network/http_manager.lua",
+		"/E/Workspace/Cocos/gundam_tags/server_client_2_3_0_0_20160719_CN/client_code/build/make_assets/__assets_android/release/src/kuafuwar/define.lua",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Packages/Cocos2d_x_LuaAutocomplete/api/3.2/ActionCamera.lua",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Packages/Cocos2d_x_LuaAutocomplete/api/3.2/ActionFadeFrame.lua",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Packages/Cocos2d_x_LuaAutocomplete/api/3.2/ActionInstant.lua",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Packages/Cocos2d_x_LuaAutocomplete/api/3.2/ActionInterval.lua",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Packages/Cocos2d_x_LuaAutocomplete/api/3.2/ActionManagerEx.lua",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Packages/Cocos2d_x_LuaAutocomplete/api/3.2/ActionMoveFrame.lua",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Packages/Cocos2d_x_LuaAutocomplete/api/3.2/ActionRotationFrame.lua",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Packages/Cocos2d_x_LuaAutocomplete/api/3.2/ActionTimelineCache.lua",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Packages/Cocos2d_x_LuaAutocomplete/api/3.2/TextureResType.lua",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Packages/Cocos2d_x_LuaAutocomplete/api/3.2/Node.lua",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Packages/Cocos2d_x_LuaAutocomplete/api/3.2/ActionTimeline.lua",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Packages/Cocos2d_x_LuaAutocomplete/locals.py",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Packages/Cocos2d_x_LuaAutocomplete/api/3.2/lua_cocos2dx_auto_api.lua",
+		"/E/Workspace/Cocos/gundam_tags/server_client_2_3_0_0_20160719_CN/client_code/build/make_assets/assets_make_xls.py",
+		"/E/Workspace/Cocos/gundam_tags/server_client_2_3_0_0_20160719_CN/client_code/build/make_assets/assets_make_xls_audit.py",
+		"/E/Workspace/Cocos/gundam_tags/server_client_2_3_0_0_20160719_CN/client_code/build/make_assets/assets_export_audit.py",
+		"/E/Workspace/Cocos/gundam_tags/server_client_2_3_0_0_20160719_CN/client_code/build/make_assets/assets_export.py",
+		"/E/Workspace/Cocos/gundam_tags/server_client_2_3_0_0_20160719_CN/client_code/build/make_assets/assets_config_audit.py",
+		"/E/Workspace/Cocos/gundam_tags/server_client_2_3_0_0_20160719_CN/client_code/build/make_assets/command.bat",
+		"/E/Workspace/Cocos/gundam_tags/server_client_2_3_0_0_20160719_CN/client_code/build/make_assets/assets_config.py",
+		"/E/Workspace/Cocos/gundam_tags/server_client_2_3_0_0_20160719_CN/client_code/build/make_assets/command_audit.bat",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Packages/Cocos2d_x_LuaAutocomplete/api/3.2/PluginParam.lua",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Packages/Cocos2d_x_LuaAutocomplete/api/3.2/TintTo.lua",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Packages/Cocos2d_x_LuaAutocomplete/api/3.2/EventListenerMouse.lua",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Packages/Cocos2d_x_LuaAutocomplete/api/3.2/EventListenerAcceleration.lua",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Packages/Cocos2d_x_LuaAutocomplete/api/3.2/Action.lua",
+		"/E/Workspace/Cocos/gundam_tags/server_client_2_3_0_0_20160719_CN/client_code/build/make_assets/__assets_android/download_0508_1934.zip",
+		"/E/Workspace/Cocos/gundam_tags/server_client_2_3_0_0_20160719_CN/client_code/build/make_assets/res_version.py",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Button.lua",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Packages/Cocos2d_x_LuaAutocomplete/api/3.2/TextAtlas.lua",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/build/export_data/make_text.py",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/build/export_data/make_text_audit.py",
+		"/E/Workspace/Cocos/gundam_tags/server_client_2_3_0_0_20160719_CN/client_code/build/export_data/export_audit.bat",
+		"/E/Workspace/Cocos/gundam_tags/server_client_2_3_0_0_20160719_CN/client_code/build/export_data/export.bat",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Packages/Cocos2d_x_LuaAutocomplete/api/3.2/lua_cocos2dx_controller_auto_api.lua",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Packages/Cocos2d_x_LuaAutocomplete/api/3.2/lua_cocos2dx_ui_auto_api.lua",
+		"/D/Tool/Cocos/cocos2d-x-3.2/cocos/scripting/lua-bindings/auto/api/TextureFrame.lua",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Action.lua",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/lua_cocos2dx_auto.cpp",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/build/lua/lua.luaprj",
+		"/E/Workspace/Cocos/gundam_tags/server_client_2_3_0_0_20160719/client_code/build/make_assets/assets_config.py",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/build/make_assets/assets_config.py",
+		"/E/Workspace/Cocos/gundam_tags/client_2_2_0_0_audit/client_code/gundam/src/system.lua",
+		"/D/Tool/Cocos/cocos2d-x-3.2/tools/tolua/cocos2dx.ini",
+		"/D/Tool/Cocos/Cocos Code IDE/plugins/org.ccdt.lua.support.2dx_1.0.0.201502061431.jar",
+		"/C/Users/wyht/Desktop/超级机器人大战/7.账号/帐号密码.txt",
+		"/E/Work/Gundam/2.3.1/texiao_lizi_1150_star_1.plist",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/src/battle/hud/hud_button_skills.lua",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/src/common/animMgr.lua",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/src/battle/skill/skill_302.lua",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/src/battle/skill/skill_297.lua",
+		"/C/Users/wyht/Desktop/万代数据/delDuplicate.py",
+		"/C/Users/wyht/Desktop/万代数据/AndDiamondShop.txt.deled",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Packages/Cocos2d_x_LuaAutocomplete/api/3.2/Sprite.lua",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ActionCamera.lua",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Packages/Cocos2d_x_LuaAutocomplete/Cocos2d_x_LuaAutocomplete.py",
+		"/C/Users/wyht/Desktop/万代数据/AndDiamondShop.txt",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ActionEase.lua",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Node.lua",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Lens3D.lua",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EditBox.lua",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ControlButton.lua",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/MotionStreak.lua",
+		"/E/Workspace/Sublime/Package/Cocos2dx3.2-Lua/definition.py",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ZOrderFrame.lua",
+		"/E/Workspace/Sublime/Package/Cocos2dx3.2-Lua/QuickXDev.sublime-settings",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Packages/Cocos2d_x_LuaAutocomplete/api/3.2/TransitionFadeDown.lua",
+		"/E/Workspace/Sublime/Package/Cocos2dx3.2-Lua/quickxlib/snippets/comment.sublime-snippet",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Packages/Cocos2d_x_LuaAutocomplete/cocos2dx3.2-api.lua",
+		"/E/Workspace/Sublime/Package/Cocos2dx3.2-Lua/Main.sublime-menu",
+		"/E/Workspace/Sublime/Package/Cocos2dx3.2-Lua/Lua.sublime-build",
+		"/E/Workspace/Sublime/Package/Cocos2dx3.2-Lua/helper.py",
+		"/E/Workspace/Sublime/Package/Cocos2dx3.2-Lua/Side Bar.sublime-workspace",
+		"/E/Workspace/Sublime/Package/Cocos2dx3.2-Lua/rebuild.py",
+		"/E/Workspace/Sublime/Package/Cocos2dx3.2-Lua/quickx.py",
+		"/E/Workspace/Sublime/Package/Cocos2dx3.2-Lua/Default (Windows).sublime-keymap",
+		"/E/Workspace/Sublime/Package/Cocos2dx3.2-Lua/quickxlib/framework/libCocosStudio/reader/CCSGUIReader.sublime-completions",
+		"/E/Workspace/Sublime/Package/Cocos2dx3.2-Lua/quickxlib/framework/libCocosStudio/armature/CCArmatureAnimation.sublime-completions",
+		"/E/Workspace/Sublime/Package/Cocos2dx3.2-Lua/quickxlib/framework/libCocosStudio/armature/CCArmature.sublime-completions",
+		"/E/Workspace/Sublime/gundam_trunk/trunk.sublime-project",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Packages/Cocos2d_x_LuaAutocomplete/package-metadata.json",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Packages/Cocos2d_x_LuaAutocomplete/license.txt",
+		"/E/Workspace/Sublime/Package/LuaAutocomplete/cocos2dx3.2-api.lua",
+		"/C/Users/wyht/Documents/云畅VPN.txt",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Packages/Cocos2dx3.2LuaAutocomplete/lua-autocomplete.sublime-project",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Packages/Cocos2dx3.2LuaAutocomplete/Cocos2dx3.2LuaAutocomplete.py",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Packages/LuaAutocomplete/package-metadata.json",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Packages/User/QuickXDev.sublime-settings",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Packages/QuickXDev/QuickXDev.sublime-settings",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/LuaAutocomplete/locals.py",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/LuaAutocomplete/LuaAutocomplete.py",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/LuaAutocomplete/package-metadata.json",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Installed Packages/LuaAutocomplete.sublime-package",
+		"/C/Users/wyht/AppData/Roaming/Sublime Text 3/Installed Packages/Cocos2dx3.2-Lua.sublime-package",
+		"/E/Download/Soft/cocos2dx3.2-api.lua",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/src/battle/camera.lua",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/src/scene/scene_login.lua",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/src/battle/skill/skill_296.lua",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/src/battle/skill/skill_295.lua",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/src/battle/skill/skill_294.lua",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/src/battle/skill/skill_293.lua",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/src/battle/skill/skill_292.lua",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/src/battle/skill/skill_291.lua",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/src/battle/skill/skill_290.lua",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/src/battle/skill/skill_base.lua",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/src/global.lua",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/src/net_logic/client.lua",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/src/ui/dialog/dlg_role_info.lua",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/src/system.lua",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/src/ui/small_dialog/confirm_dialog.lua",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/src/battle/hud/hud_button_right.lua",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/src/ui/dialog/dlg_new_role.lua",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/src/net_logic/usercenter.lua",
+		"/E/Workspace/Cocos/gundam_tags/client_2_2_0_0_audit/client_code/build/make_assets/res_version.py",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/frameworks/runtime-src/android/platformSDK/19000024_ADYOULONG/libwuyou/project.properties",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/frameworks/runtime-src/android/platformSDK/19000024_ADYOULONG/project/project.properties",
+		"/C/Users/wyht/Desktop/机器人大战/修改点.txt",
+		"/C/Users/wyht/Desktop/机器人大战/7.账号/帐号密码.txt",
+		"/E/Workspace/Cocos/gundam_tags/server_client_2_2_0_0_20160504/client_code/build/make_assets/res_version.py",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/src/net_logic/payment.lua",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/frameworks/runtime-src/android/platformSDK/10008006_IOSMOMOWUYOU/project/project.properties",
+		"/E/Workspace/Cocos/gundam_trunk/client_code/gundam/src/ui/dialog/dlg_month_card.lua"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*.lua,C:\\Users\\wyht\\AppData\\Roaming\\Sublime Text 3\\Packages\\Cocos2d_x_LuaAutocomplete\\api\\3.2",
+			"*.lua,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\frameworks\\cocos2d-x\\cocos\\scripting\\lua-bindings\\auto\\api",
+			"*.lua,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\frameworks\\cocos2d-x\\cocos\\scripting\\lua-bindings\\auto\\api,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\src,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\frameworks\\cocos2d-x\\cocos\\scripting\\lua-bindings\\auto\\api,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\res\\",
+			"*.plist,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\frameworks\\cocos2d-x\\cocos\\scripting\\lua-bindings\\auto\\api,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\src,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\frameworks\\cocos2d-x\\cocos\\scripting\\lua-bindings\\auto\\api,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\res\\",
+			"*.lua,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\frameworks\\cocos2d-x\\cocos\\scripting\\lua-bindings\\auto\\api,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\src,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\frameworks\\cocos2d-x\\cocos\\scripting\\lua-bindings\\auto\\api,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\res\\",
+			"*.plist,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\frameworks\\cocos2d-x\\cocos\\scripting\\lua-bindings\\auto\\api,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\src,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\frameworks\\cocos2d-x\\cocos\\scripting\\lua-bindings\\auto\\api,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\res\\",
+			"*.lua,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\frameworks\\cocos2d-x\\cocos\\scripting\\lua-bindings\\auto\\api,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\src,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\frameworks\\cocos2d-x\\cocos\\scripting\\lua-bindings\\auto\\api,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\res\\",
+			"*.plist,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\frameworks\\cocos2d-x\\cocos\\scripting\\lua-bindings\\auto\\api,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\src,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\frameworks\\cocos2d-x\\cocos\\scripting\\lua-bindings\\auto\\api,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\res\\",
+			"*.lua,*.plist,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\frameworks\\cocos2d-x\\cocos\\scripting\\lua-bindings\\auto\\api,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\src,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\frameworks\\cocos2d-x\\cocos\\scripting\\lua-bindings\\auto\\api,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\res\\",
+			"*.plist,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\frameworks\\cocos2d-x\\cocos\\scripting\\lua-bindings\\auto\\api,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\src,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\frameworks\\cocos2d-x\\cocos\\scripting\\lua-bindings\\auto\\api,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\res\\",
+			"*.lua,*.plist,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\frameworks\\cocos2d-x\\cocos\\scripting\\lua-bindings\\auto\\api,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\src,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\frameworks\\cocos2d-x\\cocos\\scripting\\lua-bindings\\auto\\api,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\res\\",
+			"*.lua,*.plist,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\frameworks\\cocos2d-x\\cocos\\scripting\\lua-bindings\\auto\\api,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\src,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\frameworks\\cocos2d-x\\cocos\\scripting\\lua-bindings\\auto\\api,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\res\\*",
+			"*.lua,*.plist,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\frameworks\\cocos2d-x\\cocos\\scripting\\lua-bindings\\auto\\api,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\src,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\frameworks\\cocos2d-x\\cocos\\scripting\\lua-bindings\\auto\\api,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\res",
+			"*.lua,*.plist,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\frameworks\\cocos2d-x\\cocos\\scripting\\lua-bindings\\auto\\api,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\src",
+			"*.lua,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\frameworks\\cocos2d-x\\cocos\\scripting\\lua-bindings\\auto\\api,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\src",
+			"*.lua,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\frameworks\\cocos2d-x\\cocos\\scripting\\lua-bindings\\auto\\api,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\",
+			"*.lua,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\frameworks\\cocos2d-x\\cocos\\scripting\\lua-bindings\\auto\\api",
+			"E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\,*.lua,E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\frameworks\\cocos2d-x\\cocos\\scripting\\lua-bindings\\auto\\api",
+			"E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\,*.lua",
+			"E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\,*.plist",
+			"E:\\Workspace\\Cocos\\gundam_trunk\\client_code\\gundam\\src",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"re.a",
+			".locals",
+			"locals",
+			"on_query_completions",
+			"getPosition",
+			"override",
+			"@override",
+			"override",
+			"@param null",
+			"@param",
+			"@param*",
+			"param null",
+			"True",
+			"print",
+			"loadCocosApi",
+			"LocalsAutocomplete.apis",
+			"filter_res_files",
+			"filter_lua_files",
+			"platform",
+			"assets_make_xls_audit",
+			"exportAssets",
+			"jsonFileName",
+			"loadXLS",
+			"')\n",
+			"assets_config",
+			"zipDir",
+			"platform",
+			"g_res_folders",
+			"releaseFiles",
+			"exportReleaseFiles",
+			"exportAssets",
+			"AssetsMgr",
+			"jsonFileName",
+			"exportReleaseAndDownloadFiles",
+			"prepareAssetsDir",
+			"removeAndRemakeDir",
+			"exportAssets",
+			"platform",
+			"exportReleaseAndDownloadFiles",
+			"g_res_folders",
+			"getPosition",
+			"return value:",
+			"@field",
+			"field",
+			"TextureResType",
+			"field",
+			"TextureResType",
+			"TEXTURE",
+			"apis",
+			"load_api",
+			"on_query_completions",
+			"can_local_autocomplete",
+			"pos = view.find_by_class(location, False, sublime.CLASS_WORD_START)",
+			"RequireAutocomplete",
+			"can_local_autocomplete",
+			"loadCocosApi",
+			"load_api",
+			"getposition",
+			"Position",
+			"@return",
+			"load_api",
+			"del",
+			"149",
+			"addArmatureFileWithImage",
+			"md:addArmatureFile",
+			".csb",
+			".csab",
+			".json",
+			"plist",
+			"clone",
+			"getPosition",
+			"setPosition",
+			"vec2_table",
+			"getPosition",
+			"getposition",
+			"parent_module",
+			"getPosition",
+			"getposition",
+			"cc.p(",
+			"cc.p",
+			"cc.size",
+			"size",
+			"scaleto",
+			"RequireAutocomplete",
+			"shadow",
+			"on_recv_tokenjson_to_platformuid",
+			"send_get_platformuid_by_tokenjson",
+			"copy",
+			"consts",
+			"add_cha_btn",
+			"add_cha",
+			"hide_",
+			"on_cancel",
+			"20000002_IOSMOMO",
+			"setStringForKey",
+			"hide_cancel_center_confirm",
+			"md:hide_cancel_center_confirm",
+			"dlg:hide_cancel_center_confirm",
+			"self.wuyou_to_momo",
+			"20000002",
+			"sdk_logout",
+			"20000002_IOSMOMO",
+			"self.wuyou_to_momo",
+			"on_recv_player_merge",
+			"send_player_merge",
+			"on_recv_player_merge",
+			"self.wuyou_to_momo",
+			"self.wuyou_to_momo = true",
+			"self.wuyou_to_momo",
+			"on_recv_player_merge",
+			"momo_to_wuyou_binded",
+			"self.wuyou_to_momo",
+			"wuyou_to_momo",
+			"momo_to_wuyou_binded",
+			"on_recv_player_create",
+			"on_select_role",
+			"send_payment_generateOrder",
+			"recv_on_recharge",
+			"notifyurl",
+			"split",
+			"splite",
+			"create_btn",
+			"wangluo_buhao",
+			"login_usercenter",
+			"on_quick_login",
+			"send_quickLogin",
+			"on_account_login",
+			"on_quick_login"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Cocos2d_x_LuaAutocomplete.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13272,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										3782,
+										3782
+									],
+									[
+										7876,
+										7876
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								11374,
+								11431
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6389.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/E/Workspace/Sublime/gundam_trunk/trunk.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 99,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "api/3.2/Widget.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14566,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Lua/Lua.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "api/3.2/Ref.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 887,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Lua/Lua.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "api/3.2/Action.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2861,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								65
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Lua/Lua.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "locals.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6685,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								452,
+								464
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 124.0
+	},
+	"pinned_build_system": "",
+	"project": "Cocos2d_x_LuaAutocomplete.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\Workspace\\Sublime\\gundam_trunk\\trunk.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

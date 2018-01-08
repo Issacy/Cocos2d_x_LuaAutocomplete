@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "sublime_text": "*",
+  "dependencies": [],
+  "platforms": ["*"],
+  "url": "",
+  "description": "Sublime Text 3 plugin for cocos lua api auto-completion"
+}
