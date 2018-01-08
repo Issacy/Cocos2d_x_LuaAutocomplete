@@ -1,14 +1,14 @@
 
-Cocos2d-x LuaAutocomplete
+## Cocos2d-x LuaAutocomplete
 
-===============
+======
 
 Edit from [LuaAutocmplete](https://github.com/ColonelThirtyTwo/LuaAutocomplete)
 support LuaExtended plugin
 
 ------
 
-Types of autocompletion added:
+#### auto-completion added
 * add cocos api(modules, class, class-method)
     * input `module` anywhere, will show cocos modules in completions
     * input specific module name anywhere, will show cocos classes of that module in completions
@@ -20,12 +20,14 @@ Types of autocompletion added:
 
 ------
 
+#### configuration
+
 Need configure the api version folder path, res folder and script folder in `Cocos2d_x_LuaAutocomplete.py`
 When first open subl or reload plugins, type words first time will stuck a while to load api files
 
 ------
 
-Wishlist:
+#### Wishlist
 * use a config file to configure vars above
 * vars go with `.sublime-project`
 * find a way to export cocos-lua fully
