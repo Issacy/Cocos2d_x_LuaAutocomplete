@@ -1,9 +1,9 @@
 
 ## Cocos2d-x LuaAutocomplete
 
-======
+******
 
-Edit from [LuaAutocmplete](https://github.com/ColonelThirtyTwo/LuaAutocomplete)
+Edit from [LuaAutocmplete](https://github.com/ColonelThirtyTwo/LuaAutocomplete)  
 support LuaExtended plugin
 
 ------
@@ -13,8 +13,8 @@ support LuaExtended plugin
     * input `module` anywhere, will show cocos modules in completions
     * input specific module name anywhere, will show cocos classes of that module in completions
     * class-funcs
-        * input specific class name follow ":", will show function that should use ":" to call in completions
-        * input specific class name follow ".", will show function that should use "." to call in completions
+        * input specific class name follow ":", will show funcs that should use ":" to call in completions
+        * input specific class name follow ".", will show funcs that should use "." to call in completions
 * require path(folder & file in str content)
 * file path(in str content)
 
