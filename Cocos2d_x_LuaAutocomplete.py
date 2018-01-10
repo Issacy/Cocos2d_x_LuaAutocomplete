@@ -501,13 +501,14 @@ class CocosLuaAutocomplete(sublime_plugin.EventListener):
                     if len(results) != 0:
                         result_t = []
                         regions = view.find_all(r'\b\w+(\b|$)')
+                        print(regions)
                         pos = view.find_by_class(location, False, sublime.CLASS_WORD_START)
                         char = view.substr(sublime.Region(pos, location))
-                        for _, regn in enumerate(regions):
+                        for regn in regions:
                             str_regn = view.substr(regn)
                             if str_regn != char:
                                 result_t.append([str_regn, str_regn])
-                        result_t = list(set(result_t))
+                        result_t = list(result_t)
                         for x in result_t:
                             results.append([x, x])
 
