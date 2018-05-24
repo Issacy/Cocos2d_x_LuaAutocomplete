@@ -69,6 +69,8 @@ class CocosLuaAutocomplete(sublime_plugin.EventListener):
                 if len(parent_module) == 0:
                     if api_file_str.find('@parent_module ') != -1:
                         parent_module = api_file_str.split(' ')[2]
+                        if len(parent_module) == 0:
+                            parent_module = '_G'
 
                         api_father_module_index = -1
 
@@ -341,7 +343,7 @@ class CocosLuaAutocomplete(sublime_plugin.EventListener):
 
         is_project = True
 
-        if not vals.__contains__('project_path') or vals['project_path'] == "":
+        if 'project_path' not in vals or vals['project_path'] == "":
             # Not a sublime-project
             # print("not a sublime-project")
             is_project = False
@@ -361,31 +363,29 @@ class CocosLuaAutocomplete(sublime_plugin.EventListener):
 
         index_case = CocosLuaAutocomplete.can_auto_complete(view, location)
 
+        def extend_module(module):
+            for mi, m in enumerate(module):
+                if mi == 0:
+                    continue
+                results.extend(map(lambda c: ('[class]' + c + "\tClass", c), [m[0]]))
+
         if index_case == 0:
             for module in CocosLuaAutocomplete.apis:
                 results.append(['[module]' + module[0] + '\tModule', module[0]])
+                if module[0] == "_G":
+                    extend_module(module)
+
 
         if index_case == 2 and CocosLuaAutocomplete.load_api and CocosLuaAutocomplete.apis:
             pos = view.find_by_class(location, False, sublime.CLASS_WORD_START)
-            module1 = view.substr(pos - 3) + view.substr(pos - 2)
-            module2 = view.substr(pos - 4) + view.substr(pos - 3) + view.substr(pos - 2)
-            module3 = view.substr(pos - 5) + view.substr(pos - 4) + view.substr(pos - 3) + view.substr(pos - 2)
 
-            def extend_module(module_name):
-                for afm in CocosLuaAutocomplete.apis:
-                    if afm[0] != module_name:
-                        continue
-                    for mi, m in enumerate(afm):
-                        if mi == 0:
-                            continue
-                        results.extend(map(lambda c: ('[class]' + c + "\tClass", c), [m[0]]))
-
-            if module1 == 'cc':
-                extend_module(module1)
-            if module2 == 'ccs':
-                extend_module(module2)
-            if module3 == 'ccui':
-                extend_module(module3)
+            for module in CocosLuaAutocomplete.apis:
+                typeModule = ""
+                for i in range(len(module[0]) + 1, 1, -1):
+                    typeModule += view.substr(pos - i)
+                if typeModule == module[0]:
+                    extend_module(module)
+                    break
 
             for module in CocosLuaAutocomplete.apis:
                 for class_i, class_v in enumerate(module):
