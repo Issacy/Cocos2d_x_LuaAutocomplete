@@ -363,17 +363,22 @@ class CocosLuaAutocomplete(sublime_plugin.EventListener):
 
         index_case = CocosLuaAutocomplete.can_auto_complete(view, location)
 
-        def extend_module(module):
+        def extend_module(module, insertAll = False):
             for mi, m in enumerate(module):
                 if mi == 0:
                     continue
-                results.extend(map(lambda c: ('[class]' + c + "\tClass", c), [m[0]]))
+                className = m[0]
+                if insertAll:
+                    className = "{}.{}".format(module[0], className)
+                results.extend(map(lambda c: ('[class]' + c + "\tClass", c), [className]))
 
         if index_case == 0:
             for module in CocosLuaAutocomplete.apis:
                 results.append(['[module]' + module[0] + '\tModule', module[0]])
                 if module[0] == "_G":
                     extend_module(module)
+                else:
+                    extend_module(module, True)
 
 
         if index_case == 2 and CocosLuaAutocomplete.load_api and CocosLuaAutocomplete.apis:
